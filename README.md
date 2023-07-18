@@ -1,3 +1,5 @@
+
+## *This repository is before reconstruction, please be careful wandering around*
 ### Hi there 👋
 
 <!--
@@ -5,6 +7,7 @@
 
 Here are some ideas to get you started:
 -->
+
 - 🔭 I’m currently working on ... Building this intro
 - 🌱 I’m currently learning ... Fullstack
 - 👯 I’m looking to collaborate on ... Cool stuff
